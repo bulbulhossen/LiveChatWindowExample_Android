@@ -1,0 +1,6 @@
+C:\Users\appsd\Downloads\Compressed\LiveChatWindowExample\LiveChatWindowExample\build\intermediates\classes\debug
+C:\Users\appsd\Downloads\Compressed\LiveChatWindowExample\LiveChatWindowExample\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-65dfbc6d89ce3bf92a0db4a28f50be41e7a9d5ad.jar
+C:\Users\appsd\Downloads\Compressed\LiveChatWindowExample\LiveChatWindowExample\build\intermediates\pre-dexed\debug\LiveChatWindow-dc77f0404e600f173bc79b0140c50525b14bf056.jar
+C:\Users\appsd\Downloads\Compressed\LiveChatWindowExample\LiveChatWindowExample\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-ba0c379b89c4a39ea583900185611478c9cc8c79.jar
+C:\Users\appsd\Downloads\Compressed\LiveChatWindowExample\LiveChatWindowExample\build\intermediates\pre-dexed\debug\classes-9834616a3940ffbd0ee5427e9eb5d3b6de2ce090.jar
+C:\Users\appsd\Downloads\Compressed\LiveChatWindowExample\LiveChatWindowExample\build\intermediates\pre-dexed\debug\classes-9d39b33cef6766659494d9fb25ec142c97042685.jar
